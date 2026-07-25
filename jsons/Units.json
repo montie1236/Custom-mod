@@ -19,7 +19,7 @@
             "[+70]% Defense <vs [Mounted Ranged] units>",
         ],
 		"promotions": ["Sand Mobility"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "Roar",
                 "civilopediaText": [
             {
                 "text": "This a Sand Dragon. It is a colossal lizard-like beast. Hidden within its body sits a shaman of Yellow Dragons, who controls the creature from the inside, using iron as a catalyst to forge and maintain a mystical bond with the beast."
