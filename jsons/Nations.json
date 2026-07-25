@@ -2,7 +2,7 @@
 	{
 		"name": "Yellow Dragons",
 		"leaderName": "Azur-Karr",
-		"adjective": ["Yellow Dragons"],
+		"adjective": ["Yellow"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		
@@ -30,7 +30,11 @@
 
 		"outerColor": [255,186,0],
 		"innerColor": [255,215,0],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Iron Lovers",
+        "uniques": [
+        "[+1 Faith] [in all cities] <with [1] to [2] neighboring {Iron}]>",
+        "[+2 Faith] [in all cities] <with [3] to [6] neighboring {Iron}]>"
+        ],
 		"cities": ["Dreadhold","Q'Karr","Q'Drakk","Q'Krag","Q'Grath","Q'Korth","Q'Vark","Q'Tharn","Q'Karn",
 			"Q'Gorr","Q'Rhakk","Q'Vorr","Q'Krull","Q'Darg","Q'Ashkeep","Q'Skullfort","Q'Grimhold","Q'Ironscar","Q'Blackspire",
 			"Q'Warhold","Q'Stormkeep","Q'Stonewrath","Q'Vul-larr","Q'Korrag"]
