@@ -1,17 +1,27 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Sand Dragons",
+		"unitType": "Mounted",
+		"uniqueTo": "Yellow Dragons",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 20,
+		"range": 3,
+		"cost": 220,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Iron",
+                "uniques": [
+            "Consumes [1] [Iron]",
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-33]% Strength <vs cities> <when attacking>"
+            "[+70]% Defense <vs [Archery] units>",
+            "[+70]% Defense <vs [Mounted Ranged] units>",
+        ],
+		"promotions": ["Sand Mobility"],
+		"attackSound": "nonmetalhit",
+                "civilopediaText": [
+            {
+                "text": "This a Sand Dragon. It is a colossal lizard-like beast. Hidden within its body sits a shaman of Yellow Dragons, who controls the creature from the inside, using iron as a catalyst to forge and maintain a mystical bond with the beast."
 	}
 ]
