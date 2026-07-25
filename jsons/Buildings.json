@@ -1,15 +1,19 @@
 [
-	{
-		"name": "Lizard-Skull Temple",
-		"replaces": "Temple",
-		"uniqueTo": "Yellow Dragons",
-		"faith": 3,
-		"requiredBuilding": "Shrine",
-		"cost": 500,
-		"maintenance": 2,
-		"requiredTech": "Philosophy",
-		"uniques": [
-		"Earn [100]% of killed [Military] unit's [Strength] as [XP]"],
-		"quote": "'The Skull Lizard claims the dead, yet their strength is never buried. Our gods return every drop of their might to those destined to conquer.' - Azur-Karr"
-	}
+  {
+    "name": "Lizard-Skull Temple",
+    "replaces": "Temple",
+    "uniqueTo": "Yellow Dragons",
+
+    "faith": 3,
+    "requiredBuilding": "Shrine",
+    "cost": 500,
+    "maintenance": 2,
+    "requiredTech": "Philosophy",
+
+    "uniques": [
+      "New [Military] units start with [10] XP [in this city]"
+    ],
+
+    "quote": "'The Skull Lizard claims the dead, yet their strength is never buried.' - Azur-Karr"
+  }
 ]
