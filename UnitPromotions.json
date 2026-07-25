@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Sand Mobility",
+    "unitTypes": [
+      "Mounted"
+    ],
+    "uniques": [
+      "Double movement in [Desert]"
+    ]
+  }
+]
